@@ -1,0 +1,4 @@
+C:\Users\ShadeHero\Documents\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\ShadeHero\Documents\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\ShadeHero\Documents\Projects\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.exe
+C:\Users\ShadeHero\Documents\Projects\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.pdb
